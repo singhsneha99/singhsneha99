@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" width="350" height="350"> 
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" > 
 </p>
 
 ## 🚀 About Me
