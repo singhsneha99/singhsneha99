@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
-<p align="center"> <img src="https://giffiles.alphacoders.com/211/21193.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" > </p>
+<p align="center"> <img src="[https://giffiles.alphacoders.com/211/21193.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" alt="Coding gif" > </p>
 ## 🚀 About Me
 
 An aspiring **data alchemist** transforming raw bytes into valuable insights. 
