@@ -33,4 +33,4 @@ I'd love to chat about projects and opportunities! Feel free to reach out.
 - Leveraging React and Plotly  
 - Implementing Analytics tool for better data plotting and Python-based modeling for data science capabilities!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsneha99&layout=compact&theme=vision-friendly-dark)]
