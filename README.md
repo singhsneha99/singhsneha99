@@ -20,7 +20,9 @@ I'd love to chat about projects and opportunities! Feel free to reach out.
 - 📧 [Email](mailto:sneha.ahens12@gmail.com?subject=Let's%20Connect!)
 - 👔 [LinkedIn](https://www.linkedin.com/in/singhsneha99/) 
 - 🎨 [Portfolio](https://www.singhsneha.com/)
-
+<a href="https://www.linkedin.com/in/singhsneha99/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 60px !important;width: 217px !important;"/>
+</a>
 <a href="https://www.buymeacoffee.com/hidsync">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
