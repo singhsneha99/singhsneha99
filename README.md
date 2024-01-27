@@ -26,10 +26,7 @@ I'd love to chat about projects and opportunities! Feel free to reach out.
 <a href="https://www.buymeacoffee.com/hidsync">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
-<br>
-<div id="counter">
-![](https://komarev.com/ghpvc/?username=singhsneha99&color=blueviolet)
-</div>
+
 ## 🔭 Current Initiative:
 
 - 30 Days of Finance and Tech
