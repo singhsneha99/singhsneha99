@@ -16,11 +16,12 @@ In my free time, I enjoy honing my **design skills**, connecting with nature, an
 ## 📬 Get in Touch
 
 I'd love to chat about projects and opportunities! Feel free to reach out.
+<br>
 <a href="mailto:sneha.ahens12@gmail.com?subject=Let's%20Connect!">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email Badge" style="height: 60px !important;width: 217px !important;"/>
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email Badge" style="height: 55px !important;width: 217px !important;"/>
 </a> &ensp;
 <a href="https://www.singhsneha.com/">
-  <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=website&logoColor=white&labelColor=101010" alt="Portfolio" style="height: 60px !important;width: 217px !important;" >
+  <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=website&logoColor=white&labelColor=101010" alt="Portfolio" style="height: 55px !important;width: 217px !important;" >
 </a>
 
   <br>
