@@ -11,8 +11,6 @@ Proficient in wielding **Python, SQL, and other data tools** to uncover patterns
 
 Passionate about the intersection of **finance, technology, and social impact**. On a mission to make data and AI accessible, ethical, and empowering for all.
 
-In my free time, I enjoy honing my **design skills**, connecting with nature, and reading about history, philosophy, and futurism.
-
 ## 📬 Get in Touch
 
 I'd love to chat about projects and opportunities! Feel free to reach out.
